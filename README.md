@@ -5,3 +5,6 @@ and the rest of the files(.py,docs,h5...) are in my github
 
 to run the project open Amit_glasses.py that is the main file.
 
+create a folder named : Glass_No_glasses_project
+and insert the dataset folder and saved_history.npy and saved_weights.h5 files to that folder
+you can put all the scripts in a new folder named scripts
